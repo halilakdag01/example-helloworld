@@ -4,6 +4,6 @@
   </a>
 </p>
 
-# Hello world on Solana i forked this from https://github.com/solana-labs/example-helloworld
+# Hello world on Solana! i forked this from https://github.com/solana-labs/example-helloworld for eclipse TESTNET
 
 This hello world guide has moved to the [main Solana documentation](https://docs.solana.com/getstarted/rust).
